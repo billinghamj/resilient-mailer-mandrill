@@ -72,12 +72,6 @@ mandrill.send(message, function (error) {
 To see everything available in the `message` object, refer to
 [resilient-mailer](https://github.com/billinghamj/resilient-mailer).
 
-## Notes
-
-One instance of the provider covers one domain. To send from multiple domains,
-you should set up multiple `ResilientMailer` instances, with multiple matching
-provider instances.
-
 ## Testing
 
 Install the development dependencies first:
