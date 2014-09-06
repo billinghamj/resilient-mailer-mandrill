@@ -3,6 +3,8 @@
 `resilient-mailer-mandrill` implements Mandrill as an email provider for
 [`resilient-mailer`](https://github.com/billinghamj/resilient-mailer).
 
+[![Build Status](https://img.shields.io/travis/billinghamj/resilient-mailer-mandrill.svg?style=flat)](https://travis-ci.org/billinghamj/resilient-mailer-mandrill)
+
 ```js
 var MandrillProvider = require('resilient-mailer-mandrill');
 
