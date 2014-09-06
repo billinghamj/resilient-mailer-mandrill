@@ -1,6 +1,6 @@
 {
 	"name": "resilient-mailer-mandrill",
-	"version": "0.1.0",
+	"version": "0.1.1",
 	"description": "Mandrill provider implementation for resilient-mailer",
 
 	"license": "MIT",
