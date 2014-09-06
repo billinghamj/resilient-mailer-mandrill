@@ -14,12 +14,13 @@
 	},
 
 	"scripts": {
-		"test": "node test.js"
+		"test": "tape test/*.js"
 	},
 
 	"dependencies": {
 	},
 
 	"devDependencies": {
+		"tape": "~2.13.3"
 	}
 }
