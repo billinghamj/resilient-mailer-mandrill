@@ -1,0 +1,25 @@
+{
+	"name": "resilient-mailer-mandrill",
+	"version": "0.1.0",
+	"description": "Mandrill provider implementation for resilient-mailer",
+
+	"license": "MIT",
+	"author": "James Billingham <james@jamesbillingham.com> (http://jamesbillingham.com)",
+
+	"main": "lib/mandrill-provider.js",
+
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/billinghamj/resilient-mailer-mandrill.git"
+	},
+
+	"scripts": {
+		"test": "node test.js"
+	},
+
+	"dependencies": {
+	},
+
+	"devDependencies": {
+	}
+}
