@@ -14,13 +14,15 @@
 	},
 
 	"scripts": {
-		"test": "tape test/*.js"
+		"test": "tape test/*.js",
+		"test-travis": "istanbul cover test/*.js --report lcovonly"
 	},
 
 	"dependencies": {
 	},
 
 	"devDependencies": {
-		"tape": "~2.13.3"
+		"tape": "~2.13.3",
+		"istanbul": "~0.3.2"
 	}
 }
