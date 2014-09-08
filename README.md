@@ -1,11 +1,11 @@
 # resilient-mailer-mandrill
 
 `resilient-mailer-mandrill` implements Mandrill as an email provider for
-[`resilient-mailer`](https://github.com/billinghamj/resilient-mailer).
+[`resilient-mailer`](//github.com/billinghamj/resilient-mailer).
 
-[![NPM Version](https://img.shields.io/npm/v/resilient-mailer-mandrill.svg?style=flat)](https://www.npmjs.org/package/resilient-mailer-mandrill)
-[![Build Status](https://img.shields.io/travis/billinghamj/resilient-mailer-mandrill.svg?style=flat)](https://travis-ci.org/billinghamj/resilient-mailer-mandrill)
-[![Coverage Status](https://img.shields.io/coveralls/billinghamj/resilient-mailer-mandrill.svg?style=flat)](https://coveralls.io/r/billinghamj/resilient-mailer-mandrill)
+[![NPM Version](https://img.shields.io/npm/v/resilient-mailer-mandrill.svg?style=flat)](//www.npmjs.org/package/resilient-mailer-mandrill)
+[![Build Status](https://img.shields.io/travis/billinghamj/resilient-mailer-mandrill.svg?style=flat)](//travis-ci.org/billinghamj/resilient-mailer-mandrill)
+[![Coverage Status](https://img.shields.io/coveralls/billinghamj/resilient-mailer-mandrill.svg?style=flat)](//coveralls.io/r/billinghamj/resilient-mailer-mandrill)
 
 ```js
 var MandrillProvider = require('resilient-mailer-mandrill');
@@ -70,7 +70,7 @@ mandrill.send(message, function (error) {
 ```
 
 To see everything available in the `message` object, refer to
-[resilient-mailer](https://github.com/billinghamj/resilient-mailer).
+[resilient-mailer](//github.com/billinghamj/resilient-mailer).
 
 ## Testing
 
